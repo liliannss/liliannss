@@ -20,4 +20,5 @@ Entusiasta de assuntos como:
 
 
 🏆 My Github Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=synthwave)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=default_repocard)
