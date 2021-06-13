@@ -18,6 +18,7 @@ Entusiasta de assuntos como:
 - 🍀 Arquitetura de Software
 - 🍀 Educação e Inclusão
 
+# [GitHub Stats Visualization](https://github.com/liliannss/github-stats)
 <a href="https://github.com/liliannss/github-stats">
 
 ![](https://github.com/liliannss/github-stats/blob/master/generated/overview.svg)
