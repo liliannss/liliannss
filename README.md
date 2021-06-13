@@ -20,4 +20,4 @@ Entusiasta de assuntos como:
 
 - [Linkedin](https://www.linkedin.com/in/lilian-sousa//) 💻 - Working on it.
 
-[![Liliannss's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliannss)](https://github.com/liliannss/github-readme-stats)
+[![Lilianns's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliannss)](https://github.com/liliannss/github-readme-stats)
