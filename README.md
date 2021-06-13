@@ -20,4 +20,5 @@ Entusiasta de assuntos como:
 
 - [Linkedin](https://www.linkedin.com/in/lilian-sousa//) 💻 - Working on it.
 
-[![Lilianns's GitHub stats](https://github-readme-stats.vercel.app/api?username=liliannss)](https://github.com/liliannss/github-readme-stats)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=liliannss&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&langs_count=5&theme=tokyonight)]()
