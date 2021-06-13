@@ -22,3 +22,4 @@ Entusiasta de assuntos como:
 🏆 My Github Stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=default_repocard)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liliannss&show_icons=true&theme=default_repocard)
