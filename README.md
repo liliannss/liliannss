@@ -18,10 +18,6 @@ Entusiasta de assuntos como:
 - 🍀 Arquitetura de Software
 - 🍀 Educação e Inclusão
 
-# [GitHub Stats Visualization](https://github.com/liliannss/github-stats)
-<a href="https://github.com/liliannss/github-stats">
 
-![](https://github.com/liliannss/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/liliannss/github-stats/blob/master/generated/languages.svg)
-
-</a>
+🏆 My Github Stats:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=synthwave)
