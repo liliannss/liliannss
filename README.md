@@ -19,3 +19,5 @@ Entusiasta de assuntos como:
 - 🍀 Educação e Inclusão
 
 - [Linkedin](https://www.linkedin.com/in/lilian-sousa//) 💻 - Working on it.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
