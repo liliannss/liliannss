@@ -18,7 +18,7 @@ Entusiasta de assuntos como:
 - 🍀 Arquitetura de Software
 - 🍀 Educação e Inclusão
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/liliannss/github-stats">
 
 ![](https://github.com/liliannss/github-stats/blob/master/generated/overview.svg)
 ![](https://github.com/liliannss/github-stats/blob/master/generated/languages.svg)
