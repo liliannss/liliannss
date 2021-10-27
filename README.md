@@ -6,17 +6,17 @@
 #### Sou Desenvolvedora Back-end Java apaixonada pelo conhecimento e por sua disseminação sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede.
 
 #### Stack principal:
-#### - 🍀 Java
-#### - 🍀 Web
-#### - 🍀 API
-#### - 🍀 Spring Boot
-#### - 🍀 Microsservice
+#### 🍀 Java
+#### 🍀 Web
+#### 🍀 API
+#### 🍀 Spring Boot
+#### 🍀 Microsservice
 
 #### Entusiasta de assuntos como:
-#### - 🍀 Docker
-#### - 🍀 DevOps
-#### - 🍀 Arquitetura de Software
-#### - 🍀 Educação e Inclusão
+#### 🍀 Docker
+#### 🍀 DevOps
+#### 🍀 Arquitetura de Software
+#### 🍀 Educação e Inclusão
 
 
 #### 🏆 My Github Stats:
