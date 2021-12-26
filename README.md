@@ -24,7 +24,8 @@
 #### [EN] Whenever possible I'm improving myself and sharing studies of the area on the web.
 
 ##
-#### <i>Principais Stacks:</i>
+#### [PT-BR] <i>Principais Stacks:</i>
+#### [EN] <i>Main Stacks:</i>
 ✔️ Java   
 ✔️ Web  
 ✔️ API  
@@ -32,11 +33,12 @@
 ✔️ Microsservice  
 
 ##
-#### <i>Entusiasta de:</i>
+#### [PT-BR] <i>Entusiasta de:</i>
+#### [EN] <i>Enthusiast of:</i>
 ✔️ Docker   
 ✔️ DevOps   
-✔️ Arquitetura de Software  
-✔️ Educação e Inclusão  
+✔️ Software Architecture  
+✔️ Educations and Inclusion   
 
 <div>
   <a href="https://github.com/liliannss">
