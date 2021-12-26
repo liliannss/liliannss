@@ -19,10 +19,14 @@
 
 #### [PT-BR] Desenvolvedora Back-end apaixonada pelo conhecimento e sua disseminação.
 #### [EN] Developer Back-end apaixoneted to knowledge and your dissemination.
+
 <br>
+
 #### [PT-BR] Sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede.
 #### [EN] Whenever possible I'm improving myself and sharing studies of the area on the web.
+
 <br>
+
 ##
 #### <i>Principais Stacks:</i>
 ✔️ Java   
