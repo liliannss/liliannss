@@ -38,7 +38,7 @@
 ✔️ Docker   
 ✔️ DevOps   
 ✔️ Software Architecture  
-✔️ Educations and Inclusion   
+✔️ Education and Inclusion   
 
 <div>
   <a href="https://github.com/liliannss">
