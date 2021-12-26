@@ -17,14 +17,14 @@
 
 ### Sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede. 💡
 
-#### _Principais Stacks:
+#### Principais Stacks:
 ✔️ Java   
 ✔️ Web  
 ✔️ API  
 ✔️ Spring Boot  
 ✔️ Microsservice  
 
-#### _Entusiasta de:
+#### Entusiasta de:
 ✔️ Docker   
 ✔️ DevOps   
 ✔️ Arquitetura de Software  
