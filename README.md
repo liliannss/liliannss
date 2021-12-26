@@ -13,18 +13,18 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
-#### Desenvolvedora Back-end apaixonada pelo conhecimento e sua disseminação. 💻
+### Desenvolvedora Back-end apaixonada pelo conhecimento e sua disseminação. 💻
 
-#### Sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede. 💡
+### Sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede. 💡
 
-#### _Principais Stacks_:
+#### _Principais Stacks:
 ✔️ Java   
 ✔️ Web  
 ✔️ API  
 ✔️ Spring Boot  
 ✔️ Microsservice  
 
-#### _Entusiasta de_:
+#### _Entusiasta de:
 ✔️ Docker   
 ✔️ DevOps   
 ✔️ Arquitetura de Software  
