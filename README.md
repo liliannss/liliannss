@@ -1,4 +1,4 @@
-## 💡 Olá, sou a Lilian! 😎
+## Olá, me chamo Lilian! 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-sousa/)](https://www.linkedin.com/in/lilian-sousa/)
 
@@ -13,21 +13,22 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
 
+#### Desenvolvedora Back-end apaixonada pelo conhecimento e sua disseminação. 💻
 
-#### Sou Desenvolvedora Back-end Java apaixonada pelo conhecimento e por sua disseminação sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede.
+#### Sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede. 💡
 
-#### Stack principal:
-#### Java
-#### Web
-#### API
-#### Spring Boot
-#### Microsservice
+#### _Principais Stacks:
+✔️ Java   
+✔️ Web  
+✔️ API  
+✔️ Spring Boot  
+✔️ Microsservice  
 
-#### Entusiasta de assuntos como:
-#### Docker
-#### DevOps
-#### Arquitetura de Software
-#### Educação e Inclusão
+#### _Entusiasta de:
+✔️ Docker   
+✔️ DevOps   
+✔️ Arquitetura de Software  
+✔️ Educação e Inclusão  
 
 
 #### 🏆 My Github Stats:
@@ -36,6 +37,3 @@
 
 #### 🏆 My Github Langs:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=merko)
-
-
-
