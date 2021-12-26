@@ -10,7 +10,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
   
-  <img align="right" height="150" style="border-radius:50px;" src="./daftpunktocat.png">
+  <img align="right" height="150" style="border-radius:50px;" src="./daftpunktocat.gif">
 </div>
 
 ##
