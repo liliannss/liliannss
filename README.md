@@ -34,6 +34,6 @@
 ✔️ Arquitetura de Software  
 ✔️ Educação e Inclusão  
 
-![My stats](https://github-readme-stats.vercel.app/api?username=liliannss&show_icons=true&theme=synthwave)
+![My stats](https://github-readme-stats.vercel.app/api?username=liliannss&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=tokyonight)
