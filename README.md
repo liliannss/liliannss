@@ -1,7 +1,5 @@
 ## Olá, me chamo Lilian! 👋
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-sousa/)](https://www.linkedin.com/in/lilian-sousa/)
-
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/groovy/groovy-original.svg">
@@ -12,6 +10,10 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
 </div>
+
+##
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-sousa/)](https://www.linkedin.com/in/lilian-sousa/)
 
 ### Desenvolvedora Back-end apaixonada pelo conhecimento e sua disseminação. 💻
 
@@ -30,10 +32,6 @@
 ✔️ Arquitetura de Software  
 ✔️ Educação e Inclusão  
 
+![My stats](https://github-readme-stats.vercel.app/api?username=liliannss&show_icons=true&theme=synthwave)
 
-#### 🏆 My Github Stats:
-
-![My stats](https://github-readme-stats.vercel.app/api?username=liliannss&show_icons=true&theme=merko)
-
-#### 🏆 My Github Langs:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=merko)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&theme=synthwave)
