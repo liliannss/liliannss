@@ -9,8 +9,8 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/travis/travis-plain-wordmark.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-  
-  <img align="center" height="160" style="border-radius:50px;" src="./daftpunktocat.gif">
+ 
+  <img align="right" height="150" style="border-radius:50px;" src="./daftpunktocat.gif">
 </div>
 
 ##
@@ -39,3 +39,5 @@
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=liliannss&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
     <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liliannss&layout=compact&langs_count=7&theme=react" />
 </div>
+
+![Snake animation](https://github.com/liliannss/liliannss/blob/output/github-contribution-grid-snake.svg)
