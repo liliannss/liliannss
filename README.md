@@ -1,4 +1,4 @@
-## Hi, my name is Lilian! 👋 Can you add me on LinkedIn [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-sousa/)](https://www.linkedin.com/in/lilian-sousa/)
+## <i>Hi, my name is Lilian! 👋 Can you add me on LinkedIn</i> [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lilian-sousa/)](https://www.linkedin.com/in/lilian-sousa/)
 
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
@@ -15,7 +15,7 @@
 
 ##
 #### [PT-BR] Desenvolvedora Back-end apaixonada pelo conhecimento e sua disseminação.
-#### [EN] Developer Back-end apaixoneted to knowledge and your dissemination.
+#### [EN] Developer Back-end apaixoneted to knowledge and your dissemination.   
 
 #### [PT-BR] Sempre que possível estou me aperfeiçoando e compartilhando estudos da área pela rede.
 #### [EN] Whenever possible I'm improving myself and sharing studies of the area on the web.
